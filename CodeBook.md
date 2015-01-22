@@ -1,23 +1,23 @@
-Data Dictionary
-
-subject
-    Subject numbers
-        1..30
+**Data Dictionary**
+  
+subject  
+    Subject numbers  
+        1..30  
         
-activity 
-    Activity labels
-        WALKING
-        WALKING_UPSTAIRS
-        WALKING_DOWNSTAIRS
-        SITTING
-        STANDING
-        LAYING
-        
-tBodyAccmeanX
-    Average of mean values of tBodyAcc in X direction for each activity and each subject
+activity  
+    Activity labels  
+        WALKING  
+        WALKING_UPSTAIRS  
+        WALKING_DOWNSTAIRS  
+        SITTING  
+        STANDING  
+        LAYING  
+      
+tBodyAccmeanX  
+    Average of mean values of tBodyAcc in X direction for each activity and each subject  
     
-tBodyAccmeanY
-    Average of mean values of tBodyAcc in Y direction for each activity and each subject
+tBodyAccmeanY  
+    Average of mean values of tBodyAcc in Y direction for each activity and each subject  
     
 tBodyAccmeanZ 
     Average of mean values of tBodyAcc in Z direction for each activity and each subject
