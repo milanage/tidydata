@@ -1,4 +1,4 @@
-How does my run_analysis.R script work?
+**How does my run_analysis.R script work?**
 
 
 # 1-Load packages
